@@ -1,0 +1,14 @@
+# yaap_waffle-user 16 BP2A.250605.031.A2 eng.androi.20250731.202058 release-keys
+- manufacturer: oneplus
+- platform: pineapple
+- codename: OP595DL1
+- flavor: yaap_waffle-user
+- release: 16
+- id: BP2A.250605.031.A2
+- incremental: eng.androi.20250731.202058
+- tags: release-keys
+- fingerprint: OnePlus/yaap_waffle/waffle:16/BP2A.250605.031.A2/eng.androi.20250731.202058:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: yaap_waffle-user-16-BP2A.250605.031.A2-eng.androi.20250731.202058-release-keys
+- repo: oneplus_op595dl1_dump

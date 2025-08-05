@@ -1,0 +1,13 @@
+odm/lib64/libarcsoft_turbo_hdr_raw.so
+bootRE/boot.elf
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/app/Photos/Photos.apk
+product/app/PrebuiltGmail/PrebuiltGmail.apk
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+boot.img
+modem.img
+recovery.img
+boot/dtb/06_dtbdump_Qualcomm_Technologies,_Inc._PineappleP_SoC.dtb
+vendor_boot.img

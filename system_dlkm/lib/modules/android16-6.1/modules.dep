@@ -1,0 +1,60 @@
+/system_dlkm/lib/modules/android16-6.1/nhc_ipv6.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/ppp_deflate.ko: /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/nhc_udp.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/usbserial.ko:
+/system_dlkm/lib/modules/android16-6.1/nhc_hop.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/slhc.ko:
+/system_dlkm/lib/modules/android16-6.1/ftdi_sio.ko: /system_dlkm/lib/modules/android16-6.1/usbserial.ko
+/system_dlkm/lib/modules/android16-6.1/cdc_ncm.ko: /system_dlkm/lib/modules/android16-6.1/cdc_ether.ko /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/ppp_generic.ko: /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/can-bcm.ko: /system_dlkm/lib/modules/android16-6.1/can.ko
+/system_dlkm/lib/modules/android16-6.1/hidp.ko: /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/rtl8150.ko:
+/system_dlkm/lib/modules/android16-6.1/l2tp_core.ko:
+/system_dlkm/lib/modules/android16-6.1/r8152.ko: /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/nhc_routing.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/bluetooth.ko: /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/nhc_mobility.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/asix.ko: /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/can-dev.ko:
+/system_dlkm/lib/modules/android16-6.1/rfkill.ko:
+/system_dlkm/lib/modules/android16-6.1/8021q.ko:
+/system_dlkm/lib/modules/android16-6.1/ppp_mppe.ko: /system_dlkm/lib/modules/android16-6.1/libarc4.ko /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/nhc_fragment.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/6lowpan.ko:
+/system_dlkm/lib/modules/android16-6.1/cdc_eem.ko: /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/mac802154.ko: /system_dlkm/lib/modules/android16-6.1/ieee802154.ko
+/system_dlkm/lib/modules/android16-6.1/cdc_ether.ko: /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/usbnet.ko: /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/libarc4.ko:
+/system_dlkm/lib/modules/android16-6.1/r8153_ecm.ko: /system_dlkm/lib/modules/android16-6.1/r8152.ko /system_dlkm/lib/modules/android16-6.1/cdc_ether.ko /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/nhc_dest.ko: /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/btqca.ko: /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/ieee802154_socket.ko: /system_dlkm/lib/modules/android16-6.1/ieee802154.ko
+/system_dlkm/lib/modules/android16-6.1/hci_uart.ko: /system_dlkm/lib/modules/android16-6.1/btqca.ko /system_dlkm/lib/modules/android16-6.1/btbcm.ko /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/aqc111.ko: /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/kheaders.ko:
+/system_dlkm/lib/modules/android16-6.1/pptp.ko: /system_dlkm/lib/modules/android16-6.1/pppox.ko /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/tipc.ko:
+/system_dlkm/lib/modules/android16-6.1/ieee802154.ko:
+/system_dlkm/lib/modules/android16-6.1/zsmalloc.ko:
+/system_dlkm/lib/modules/android16-6.1/can.ko:
+/system_dlkm/lib/modules/android16-6.1/btbcm.ko: /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/rfcomm.ko: /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/gzvm.ko:
+/system_dlkm/lib/modules/android16-6.1/ieee802154_6lowpan.ko: /system_dlkm/lib/modules/android16-6.1/ieee802154.ko /system_dlkm/lib/modules/android16-6.1/6lowpan.ko
+/system_dlkm/lib/modules/android16-6.1/wwan.ko:
+/system_dlkm/lib/modules/android16-6.1/l2tp_ppp.ko: /system_dlkm/lib/modules/android16-6.1/l2tp_core.ko /system_dlkm/lib/modules/android16-6.1/pppox.ko /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/cdc-acm.ko:
+/system_dlkm/lib/modules/android16-6.1/ax88179_178a.ko: /system_dlkm/lib/modules/android16-6.1/usbnet.ko /system_dlkm/lib/modules/android16-6.1/mii.ko
+/system_dlkm/lib/modules/android16-6.1/vcan.ko: /system_dlkm/lib/modules/android16-6.1/can-dev.ko
+/system_dlkm/lib/modules/android16-6.1/bsd_comp.ko: /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/can-raw.ko: /system_dlkm/lib/modules/android16-6.1/can.ko
+/system_dlkm/lib/modules/android16-6.1/pppox.ko: /system_dlkm/lib/modules/android16-6.1/ppp_generic.ko /system_dlkm/lib/modules/android16-6.1/slhc.ko
+/system_dlkm/lib/modules/android16-6.1/can-gw.ko: /system_dlkm/lib/modules/android16-6.1/can.ko
+/system_dlkm/lib/modules/android16-6.1/btsdio.ko: /system_dlkm/lib/modules/android16-6.1/bluetooth.ko /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/diag.ko: /system_dlkm/lib/modules/android16-6.1/tipc.ko
+/system_dlkm/lib/modules/android16-6.1/zram.ko: /system_dlkm/lib/modules/android16-6.1/zsmalloc.ko
+/system_dlkm/lib/modules/android16-6.1/nfc.ko: /system_dlkm/lib/modules/android16-6.1/rfkill.ko
+/system_dlkm/lib/modules/android16-6.1/slcan.ko: /system_dlkm/lib/modules/android16-6.1/can-dev.ko
+/system_dlkm/lib/modules/android16-6.1/mii.ko:
