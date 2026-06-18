@@ -1,0 +1,7 @@
+SkinTemperatureNode:   xo-therm
+SkinNodeThrottleTemp:  55000
+#GameID   GameAPK    MaxTemperature  MaxCurrent  AvgCurrent
+100001    hok         48000          1200        1000
+0         adaptive    50000          1200        1000 
+
+

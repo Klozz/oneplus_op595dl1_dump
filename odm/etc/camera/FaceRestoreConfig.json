@@ -1,0 +1,20 @@
+{
+    "slightBlurThreshold": 0,
+    "severeBlurThreshold": 220,
+    "slightMotionBlurThreshold": 64,
+    "severeMotionBlurThreshold": 220,
+    "minMotionThreshold": 217,
+
+    "lowISOThresholdWithFB": 2801,
+    "midISOThresholdWithFB": 14001,
+    "highISOThresholdWithFB": 15001,
+    "topISOThresholdWithFB": 20001,
+
+    "lowISOThreshold": 2802,
+    "midISOThreshold": 14002,
+    "highISOThreshold": 15002,
+    "topISOThreshold": 20002,
+
+    "alphaFusionISOThreshold": [400, 6400, 12800, 19000],
+    "alphaFusion": [1.0, 1.0, 1.0, 1.0, 0.6]
+}

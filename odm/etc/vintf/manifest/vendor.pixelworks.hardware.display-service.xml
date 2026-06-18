@@ -1,0 +1,8 @@
+<manifest version="1.0" type="device">
+    <!-- Iris Display Service -->
+    <hal format="aidl">
+        <name>vendor.pixelworks.hardware.display</name>
+        <version>2</version>
+        <fqname>IIris/default</fqname>
+    </hal>
+</manifest>

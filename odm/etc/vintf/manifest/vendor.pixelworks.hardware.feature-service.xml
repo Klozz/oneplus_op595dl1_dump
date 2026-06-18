@@ -1,0 +1,7 @@
+<manifest version="1.0" type="device">
+    <!-- Iris Feature Service -->
+    <hal format="aidl">
+        <name>vendor.pixelworks.hardware.feature</name>
+        <fqname>IIrisFeature/default</fqname>
+    </hal>
+</manifest>

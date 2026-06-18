@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone='yes' ?>
+<root>
+    <oplsStcCfg>
+        <mode name="feature1">
+        </mode>
+        <mode name="feature2">
+        </mode>
+        <mode name="feature3">
+        </mode>
+        <mode name="feature4">
+        </mode>
+        <mode name="feature5">
+            <level1> 30, 8, 2, 3, 500, 500, 500 </level1>
+            <level2> 20, 8, 2, 3, 500, 500, 500 </level2>
+        </mode>
+    </oplsStcCfg>
+    <oplsClstcCfg>
+        <mode name="feature1">
+            <level1> 45, 8, 0, 3, 750, 750, 800 </level1>
+        </mode>
+    </oplsClstcCfg>
+    <layerList>
+        <layer>android.youtube</layer>
+        <layer>netflix.mediaclient</layer>
+        <layer>amazon.avod</layer>
+        <layer>disney.disneyplus</layer>
+        <layer>hulu.plus</layer>
+        <layer>hbo.android</layer>
+    </layerList>
+</root>

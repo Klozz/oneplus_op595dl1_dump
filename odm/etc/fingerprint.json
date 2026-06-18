@@ -1,0 +1,140 @@
+[
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"default",
+        "product":"CPH2573IN",
+        "device":"OP595DL1",
+        "model":"CPH2573",
+        "product_name":"CPH2573",
+        "market":"CPH2573",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2573IN/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2573IN/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"row",
+        "product":"CPH2581",
+        "device":"OP595DL1",
+        "model":"CPH2581",
+        "product_name":"CPH2581",
+        "market":"CPH2581",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2581/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2581/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"id",
+        "product":"CPH2581",
+        "device":"OP595DL1",
+        "model":"CPH2581",
+        "product_name":"CPH2581",
+        "market":"CPH2581",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2581/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2581/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"eea",
+        "product":"CPH2581EEA",
+        "device":"OP595DL1",
+        "model":"CPH2581",
+        "product_name":"CPH2581",
+        "market":"CPH2581",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2581EEA/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2581EEA/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"us",
+        "product":"CPH2583",
+        "device":"OP595DL1",
+        "model":"CPH2583",
+        "product_name":"CPH2583",
+        "market":"CPH2583",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2583/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2583/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"22877",
+        "brand":"OnePlus",
+        "manufacturer":"OnePlus",
+        "name":"in",
+        "product":"CPH2573IN",
+        "device":"OP595DL1",
+        "model":"CPH2573",
+        "product_name":"CPH2573",
+        "market":"CPH2573",
+        "rsa_level":"R4T3",
+        "first_api_level":"34",
+        "base_oses": [
+            {
+              "15": "OnePlus/CPH2573IN/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "15": "OnePlus/CPH2573IN/OP595DL1:15/AP3A.240617.008/U.R4T3.1a78e1a-fa9-cb30:user/release-keys"
+            }
+        ]
+  }
+]
