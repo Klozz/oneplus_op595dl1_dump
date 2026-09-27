@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RFTOOLKIT>
+    <TestCase mode="QtTest, Expert, Factory">
+        <RAT name="LTE">
+            <Band number="28">
+                <Channel type="Low">
+                    <SubBand>0</SubBand>
+                </Channel>
+                <Channel type="Mid">
+                    <SubBand>0</SubBand>
+                </Channel>
+            </Band>
+        </RAT>
+        <RAT name="NR5G">
+            <Band number="28">
+                <Channel type="Low">
+                    <SubBand>0</SubBand>
+                </Channel>
+                <Channel type="Mid">
+                    <SubBand>0</SubBand>
+                </Channel>
+            </Band>
+        </RAT>
+    </TestCase>
+</RFTOOLKIT>

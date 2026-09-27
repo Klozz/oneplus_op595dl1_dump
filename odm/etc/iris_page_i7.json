@@ -1,0 +1,253 @@
+{
+	"header":
+	{
+		"type": "iris-capability",
+		"version": "2",
+		"source": "iris",
+		"platform": "iris7",
+		"owner": "iris",
+		"grantee": "system",
+		"validity": "permanent",
+		"reserved": "none"
+	},
+	"iris_config":
+	{
+		"gameMemcFPSValid":
+		[
+			{
+				"name": "op1",
+				"panel_fps": 60000,
+				"game_fps": 30000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op2",
+				"panel_fps": 90000,
+				"game_fps": 30000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op3",
+				"panel_fps": 90000,
+				"game_fps": 45000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op4",
+				"panel_fps": 120000,
+				"game_fps": 30000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op5",
+				"panel_fps": 120000,
+				"game_fps": 40000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op6",
+				"panel_fps": 120000,
+				"game_fps": 60000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op7",
+				"panel_fps": 144000,
+				"game_fps": 36000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op8",
+				"panel_fps": 144000,
+				"game_fps": 48000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			},
+			{
+				"name": "op9",
+				"panel_fps": 144000,
+				"game_fps": 72000,
+				"nominal_tolerance": 6000,
+				"tolerance": 3000
+			}
+		],
+		"videoMemcFPSValid":
+		[
+			{
+				"name": "op1",
+				"panel_fps": 60000,
+				"video_fps": 15000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op2",
+				"panel_fps": 60000,
+				"video_fps": 24000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op3",
+				"panel_fps": 60000,
+				"video_fps": 25000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op4",
+				"panel_fps": 60000,
+				"video_fps": 30000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op5",
+				"panel_fps": 90000,
+				"video_fps": 15000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op6",
+				"panel_fps": 90000,
+				"video_fps": 24000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op7",
+				"panel_fps": 90000,
+				"video_fps": 25000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op8",
+				"panel_fps": 90000,
+				"video_fps": 30000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op9",
+				"panel_fps": 120000,
+				"video_fps": 15000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op10",
+				"panel_fps": 120000,
+				"video_fps": 24000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op11",
+				"panel_fps": 120000,
+				"video_fps": 25000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op12",
+				"panel_fps": 120000,
+				"video_fps": 30000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op13",
+				"panel_fps": 120000,
+				"video_fps": 40000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op14",
+				"panel_fps": 120000,
+				"video_fps": 60000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op15",
+				"panel_fps": 144000,
+				"video_fps": 15000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op16",
+				"panel_fps": 144000,
+				"video_fps": 24000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op17",
+				"panel_fps": 144000,
+				"video_fps": 25000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op18",
+				"panel_fps": 144000,
+				"video_fps": 30000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op19",
+				"panel_fps": 144000,
+				"video_fps": 40000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op20",
+				"panel_fps": 144000,
+				"video_fps": 48000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op21",
+				"panel_fps": 144000,
+				"video_fps": 60000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			},
+			{
+				"name": "op22",
+				"panel_fps": 144000,
+				"video_fps": 72000,
+				"nominal_tolerance": 0,
+				"tolerance": 0
+			}
+		]
+	},
+	"iris_capability": [
+		"support-ffr",
+		"support-mdm",
+		"support-scs",
+		"support-scs-open",
+		"support-edca"
+	],
+	"ra_preference": [
+		"power-saved",
+	],
+	"scs_panel_fps": {
+		"d0": [60, 90, 120],
+		"d1": [120]
+	}
+}
